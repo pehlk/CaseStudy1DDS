@@ -9,6 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+#YOUTUBE VIDEO OF PRESENTATION: https://www.youtube.com/watch?v=IRjb7sGDiKY
+
+
 #Our libraries of choice.
 ```{r}
 library(dplyr)
